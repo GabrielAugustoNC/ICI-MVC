@@ -1,0 +1,66 @@
+﻿@model IEnumerable<ProvaCandidato.Data.Entidade.Cliente>
+
+@{
+    ViewBag.Title = "Consulta de Clientes";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Consulta de Clientes</h2>
+
+<p>
+    @Html.ActionLink("Novo Registro", "Create")
+</p>
+
+@using (Html.BeginForm())
+{
+    <div class="form-inline">
+        <div class="form-group col-md-5">
+            @Html.TextBox("search", null, new { @class = "form-control", @placeholder = "Nome do Cliente" })
+        </div>
+        <input type="submit" value="Buscar" class="btn btn-primary" />
+    </div>
+
+    <br />
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Cidade.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DataNascimento)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ativo)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cidade.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataNascimento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ativo)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.Codigo }) |
+                @Html.ActionLink("Detalhes", "Details", new { id = item.Codigo }) |
+                @Html.ActionLink("Deletar", "Delete", new { id = item.Codigo })
+            </td>
+        </tr>
+    }
+
+</table>

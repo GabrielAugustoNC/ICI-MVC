@@ -1,0 +1,134 @@
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\ApplicationInsights.config
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\csc.exe
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\vbc.exe
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\ProvaCandidato.dll.config
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\ProvaCandidato.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\ProvaCandidato.pdb
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\Antlr3.Runtime.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\EntityFramework.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.AI.Web.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\Newtonsoft.Json.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Helpers.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Http.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Mvc.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Optimization.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Razor.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.WebPages.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\WebGrease.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\EntityFramework.xml
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.AI.Web.xml
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Http.xml
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Helpers.xml
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Mvc.xml
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Optimization.xml
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Razor.xml
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.WebPages.xml
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\Antlr3.Runtime.pdb
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\Newtonsoft.Json.xml
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\obj\Debug\ProvaCandidato.Web.csprojAssemblyReference.cache
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\obj\Debug\ProvaCandidato.Web.csproj.CoreCompileInputs.cache
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\obj\Debug\ProvaCandidato.Web.csproj.CopyComplete
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\obj\Debug\ProvaCandidato.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\obj\Debug\ProvaCandidato.pdb
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\ProvaCandidato.Data.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\ProvaCandidato.Data.pdb
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Web\bin\ProvaCandidato.Data.dll.config
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\ApplicationInsights.config
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\csc.exe
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\vbc.exe
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\VBCSCompiler.exe
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\ProvaCandidato.dll.config
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\ProvaCandidato.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\ProvaCandidato.pdb
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\Antlr3.Runtime.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\EntityFramework.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\EntityFramework.SqlServer.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.AI.Web.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.ApplicationInsights.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\Newtonsoft.Json.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\ProvaCandidato.Data.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Net.Http.Formatting.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Helpers.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Http.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Http.WebHost.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Mvc.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Optimization.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Razor.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.WebPages.Deployment.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.WebPages.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.WebPages.Razor.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\WebGrease.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\ProvaCandidato.Data.pdb
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\ProvaCandidato.Data.dll.config
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\EntityFramework.xml
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\EntityFramework.SqlServer.xml
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.AI.Web.xml
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.ApplicationInsights.xml
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Net.Http.Formatting.xml
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Http.xml
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Http.WebHost.xml
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Helpers.xml
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Mvc.xml
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Optimization.xml
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.Razor.xml
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.WebPages.xml
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.WebPages.Deployment.xml
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\System.Web.WebPages.Razor.xml
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\Antlr3.Runtime.pdb
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\bin\Newtonsoft.Json.xml
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\obj\Debug\ProvaCandidato.Web.csprojAssemblyReference.cache
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\obj\Debug\ProvaCandidato.Web.csproj.CoreCompileInputs.cache
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\obj\Debug\ProvaCandidato.Web.csproj.CopyComplete
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\obj\Debug\ProvaCandidato.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Web\obj\Debug\ProvaCandidato.pdb

@@ -1,0 +1,26 @@
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\ProvaCandidato.Data.dll.config
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\ProvaCandidato.Data.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\ProvaCandidato.Data.pdb
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\EntityFramework.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\EntityFramework.xml
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.csproj.CoreCompileInputs.cache
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.csproj.CopyComplete
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.dll
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.pdb
+C:\Users\GABRIEL CARNEIRO\Downloads\ICI\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.csprojAssemblyReference.cache
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\ProvaCandidato.Data.dll.config
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\ProvaCandidato.Data.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\ProvaCandidato.Data.pdb
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\EntityFramework.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\EntityFramework.xml
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.csprojAssemblyReference.cache
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.csproj.CoreCompileInputs.cache
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.csproj.CopyComplete
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.dll
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.pdb
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.Migrations.InitialCreate.resources
+C:\ICI\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.csproj.GenerateResource.cache

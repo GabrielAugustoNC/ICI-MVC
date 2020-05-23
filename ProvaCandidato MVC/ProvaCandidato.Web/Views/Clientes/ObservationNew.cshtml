@@ -1,0 +1,38 @@
+﻿@model ProvaCandidato.Data.Entidade.ClienteObservacao
+
+@{
+    ViewBag.Title = "Nova Observação";
+    Layout = "";
+
+}
+<form if="formPartial" class="form-horizontal">
+    <h3>Novo Registro</h3>
+    <br />
+
+    <div id="AddClienteObservacao">
+        <div class="form-group">
+            @Html.LabelFor(model => model.Observacao, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Observacao, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Observacao, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Referencia, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Referencia, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Referencia, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+    <br />
+
+    <input id="addObservacaoBtn" type="button" value="Salvar" class="btn btn-primary" />
+
+</form>
+
+@section Scripts {
+    @Scripts.Render("~/Scripts/clientes-observacoes-ajax.js?" + DateTime.Now.Ticks)
+}

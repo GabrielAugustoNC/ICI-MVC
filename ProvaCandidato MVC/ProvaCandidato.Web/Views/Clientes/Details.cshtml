@@ -1,0 +1,102 @@
+﻿@model ProvaCandidato.Data.Entidade.Cliente
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Detalhes</h2>
+<br />
+
+<div>
+    <h4>Cliente</h4>
+    <hr />
+    <input id="ClienteId" style="display: none" value="@Html.DisplayFor(model => model.Codigo)" />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Cidade.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cidade.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DataNascimento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataNascimento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ativo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ativo)
+        </dd>
+
+    </dl>
+
+    <br />
+
+    <div class="form-inline">
+        <div class="form-group col-md-2">
+            <h4>Observações</h4>
+        </div>
+        <button id="showPartialButton" type="button" class="btn btn-primary">Novo Registro</button>
+    </div>
+    <hr />
+
+    @if (Model.Observacoes != null)
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        Descrição
+                    </th>
+                    <th>
+                        Referência
+                    </th>
+                </tr>
+            </thead>
+
+            @foreach (var item in Model.Observacoes)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Observacao)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Referencia)
+                    </td>
+                </tr>
+            }
+        </table>
+    }
+
+    <div id="dialog" title="Create Album" style="overflow: hidden;"></div>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Codigo }) |
+    @Html.ActionLink("Voltar", "Index")
+</p>
+
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/Scripts/clientes-ajax.js?" + DateTime.Now.Ticks)
+}
+
